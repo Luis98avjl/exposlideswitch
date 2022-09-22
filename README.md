@@ -2,18 +2,18 @@
 
 ¿Qué es un interruptor deslizante?
 
-Ainterruptor deslizantees un dispositivo mecánico que se utiliza comúnmente para controlar un circuito eléctrico. Utiliza una simple acción deslizante para mover el interruptor de una posición abierta a una cerrada, o viceversa. Como interruptores de contacto mantenido, los interruptores deslizantes permanecen en un estado hasta que se accionan manualmente en otro estado.
+El Slideswitch es un dispositivo mecánico que se utiliza comúnmente para controlar un circuito eléctrico. Utiliza una simple acción deslizante para mover el interruptor de una posición abierta a una cerrada, o viceversa. Como interruptores de contacto mantenido, los interruptores deslizantes permanecen en un estado hasta que se accionan manualmente en otro estado.
 
 Ejemplo de un interruptor deslizante
 ![94181 (1)](https://user-images.githubusercontent.com/99373882/191386111-9bc066f0-0356-4d4a-9c5d-00c22bd0f1e8.png)
 
-Aplicaciones y consideraciones
+Configuraciones
 
-Los interruptores deslizantes se pueden usar en entornos domésticos, de oficina e industriales que van desde periféricos de computadora, electrodomésticos, dispositivos electrónicos de consumo, sistemas domésticos inteligentes, equipos de prueba, hardware de comunicación y muchos otros artículos.
+Los interruptores deslizantes a menudo tendrán una construcción de un solo polo, doble tiro (SPDT). Esto permite que la energía que se entrega al circuito se intercambie de una fuente de energía a otra (lo que se conoce como operación de encendido). En otras palabras, el movimiento del actuador del interruptor deslizante redirige el flujo de corriente de un circuito al otro.
 
-Antes de seleccionar qué interruptor deslizante se debe colocar en el diseño de su sistema, los ingenieros deberán pensar en las características particulares de la aplicación y el impacto que podrían tener.
+Los interruptores deslizantes también suelen estar disponibles en estilos de montaje en superficie, orificio pasante o montaje en panel. Lo que sea apropiado dependerá de la naturaleza del proceso de producción, el espacio disponible y las tensiones mecánicas de la aplicación, ya que esto podría afectar la retención de la placa. Aquí hay algunas especificaciones adicionales a tener en cuenta:
 
-Especificaciones
+
 
 |     Especificación    |                                Ofrenda típica                               |                                                        Descripción                                                        |
 |:---------------------:|:---------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
